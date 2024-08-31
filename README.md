@@ -16,10 +16,10 @@ npm install
 npm start
 ```
 
-##🔗 **Live Demo**  
+##  🔗 Live Demo  
 Check out the live version [here](https://rohan-takmoge-portfolio.vercel.app).
 
-##📬 **Contact**  
+## 📬 Contact  
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/rohan-takmoge-141b52251/) or [Email](mailto:rohantakmoge19@gmail.com).
 
-#Thanks for Visiting!!!
+# Thanks for Visiting!!!
