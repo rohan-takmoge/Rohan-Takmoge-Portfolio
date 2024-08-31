@@ -7,6 +7,10 @@ Welcome to my portfolio! This repository showcases my work, projects, and skills
 - **Technologies Used:** A breakdown of the tools and languages I’ve mastered.
 - **Interactive UI:** Responsive and user-friendly interface.
 
+
+##  🔗 Live Demo  
+Check out the live version [here](https://rohan-takmoge-portfolio.vercel.app).
+
 ## 📦 Installation
 Clone this repository to explore the code:
 ```bash
@@ -15,9 +19,6 @@ cd Rohan-Takmoge-Portfolio
 npm install
 npm start
 ```
-
-##  🔗 Live Demo  
-Check out the live version [here](https://rohan-takmoge-portfolio.vercel.app).
 
 ## 📬 Contact  
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/rohan-takmoge-141b52251/) or [Email](mailto:rohantakmoge19@gmail.com).
